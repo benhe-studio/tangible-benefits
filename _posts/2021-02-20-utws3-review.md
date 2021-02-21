@@ -6,7 +6,7 @@ $80 USD
 
 ★★☆
 
-![UTWS3]({{site.baseurl}}/assets/utws3.jpeg)
+![UTWS3]({{site.baseurl}}/assets/utws3-main.jpeg)
 
 **Background**
 
@@ -17,6 +17,10 @@ Unfortunately, these technologies are most often integrated into the headphone a
 Besides the obvious environmental impacts, this consumable approach is absurd for high end or professional equipment that have traditionally long lifespans. In the IEM space where many enthusiasts have committed to custom molded housings and where earphones can cost thousands of dollars, this type of integration isn't viable. The existence of a universal wireless adapter was inevitable.
 
 The FiiO UTWS3 isn't the first bluetooth adapter to exist for IEMs, but it's one of the first to offer a user experience that meets the baseline set by the AirPods.
+
+![UTWS3]({{site.baseurl}}/assets/utws3-adapter.jpeg)
+
+![UTWS3]({{site.baseurl}}/assets/utws3-case.jpeg)
 
 **Design**
 
